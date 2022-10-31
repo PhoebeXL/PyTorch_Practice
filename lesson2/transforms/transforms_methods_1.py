@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import sys
+sys.path.append('C:/Project/Object-Detection/PyTorch_Practice')
 
 import os
 import numpy as np
